@@ -1,0 +1,2 @@
+rsync -rvv public/* root@davidhanley.org:/var/www/towerrunningusa/
+
