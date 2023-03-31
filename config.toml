@@ -1,0 +1,4 @@
+baseURL = 'http://towerrunningusa.com/'
+languageCode = 'en-us'
+title = 'TowerRunning USA'
+theme = 'ananke'
